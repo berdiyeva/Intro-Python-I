@@ -29,3 +29,4 @@ import os
 
 # Print out your machine's login name
 # YOUR CODE HERE
+os.getlogin()
